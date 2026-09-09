@@ -1,10 +1,10 @@
-```txt
+
 streamlit
 pandas==2.2.1
-scikit-learn==1.6.1
 numpy==1.26.4
-xgboost
-```
+scikit-learn==1.6.1
+xgboost==3.2.0
+
 
 
 
