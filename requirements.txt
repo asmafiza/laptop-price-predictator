@@ -1,3 +1,7 @@
+streamlit
+numpy
+scikit-learn
+xgboost
 absl-py==1.4.0
 accelerate==1.14.0
 access==1.1.10.post3
@@ -638,7 +642,4 @@ yellowbrick==1.5
 yfinance==0.2.66
 zipp==4.1.0
 zstandard==0.25.0
-streamlit
-numpy
-scikit-learn
-xgboost
+
