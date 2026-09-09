@@ -638,3 +638,7 @@ yellowbrick==1.5
 yfinance==0.2.66
 zipp==4.1.0
 zstandard==0.25.0
+streamlit
+numpy
+scikit-learn
+xgboost
