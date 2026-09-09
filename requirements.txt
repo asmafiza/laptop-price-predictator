@@ -1,7 +1,9 @@
 streamlit
 xgboost==3.4.1
 scikit-learn
-
+numpy
+pandas
+```[cite: 3]
 
 
 
