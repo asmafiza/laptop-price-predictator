@@ -250,5 +250,5 @@ if st.button('Predict Price'):
         st.error("Prediction failed.")
 
         st.exception(e)
-```
+
 
