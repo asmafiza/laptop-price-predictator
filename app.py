@@ -242,7 +242,7 @@ if st.button('Predict Price'):
         # ======================
 
         st.success(
-            f"The predicted price of this configuration is ₹ {price:,}"
+            f"The predicted price of this configuration is RS {price:,}"
         )
 
     except Exception as e:
