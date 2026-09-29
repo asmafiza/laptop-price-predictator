@@ -141,7 +141,7 @@ hdd = st.selectbox(
 
 ssd = st.selectbox(
     'SSD(in GB)',
-    [0, 8, 128, 256, 512, 1024]
+    [0, 8, 128, 256, 512, 1024,2048]
 )
 
 
